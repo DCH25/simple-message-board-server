@@ -2,7 +2,7 @@
 A message board server in C with multiplexing using select.
 
 # Commands
-"![message]/n" to overwrite the server message and ?/n to get the most recent message
+"![message]/n" to overwrite the server message and "?/n" to get the most recent message
 
 # Testing
 To test this server on one machine:
